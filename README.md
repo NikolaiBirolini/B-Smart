@@ -21,6 +21,8 @@ Le git se compose notamment :
 - des diapositives des 4 soutenances,
 -etc.
 
+https://www.snapiculture.com/wp-content/uploads/2021/10/PRESENTATION-D3_B-Smart_Polytech-Sorbonne_BIROLINI_Nikolai_HULOT_Alexandra_LEBRETON_Maxime.pptx.pdf
+
 EN : 
 B-smart is a co-monitoring projet for your hive : with just one look, you can easily understand what's going on - and this, from your home !
  
